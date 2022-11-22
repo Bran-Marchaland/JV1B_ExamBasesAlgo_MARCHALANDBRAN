@@ -54,6 +54,13 @@ while (conditionV!=1):
     print (tableauP3)
     conditionV=1
 
+
+
+
+# Pour pourvoir programmer un jeux de puissance 4 il faudrait réutiliser le code du tic tac toe tout en augmentant la taille de
+# la grille et modifier la condition de victoire.
+# Il faudrait aussi mettre une condition qui fait que les jetons des joueur doivent commencer du bas et ne peuvent être placer
+# n'importe ou. 
     
 
 
